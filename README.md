@@ -17,11 +17,15 @@ Universidad Externado de Colombia
 ## Programa del curso
 
  1. Instalación e introducción al uso de Software 
-      1. Anaconda - Distribción de Python y R para la computación científica
-
+    1. Anaconda - Distribción de Python y R para la computación científica
     2. Azure Notebooks
     3. Excel y la utilidad de las hojas de cálculo
     4. Geogebra y la matemática interactiva.
+    
+2. ![Álgebra Lineal](https://github.com/MRippe7/MCG2-M2/blob/master/Cuadernos/M%C3%B3dulo%20%C3%81lgebra%20Lineal.ipynb)
+    1. Definición y operaciones.
+    2. Sistemas de ecuaciones.
+    3. Determinantes
     
 2. Derivación
     1. Reglas básicas
