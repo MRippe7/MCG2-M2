@@ -22,7 +22,7 @@ Universidad Externado de Colombia
     3. Excel y la utilidad de las hojas de cálculo
     4. Geogebra y la matemática interactiva.
     
-2. ![Álgebra Lineal](https://github.com/MRippe7/MCG2-M2/blob/master/Cuadernos/M%C3%B3dulo%20%C3%81lgebra%20Lineal.ipynb)
+2. [Álgebra Lineal](https://github.com/MRippe7/MCG2-M2/blob/master/Cuadernos/M%C3%B3dulo%20%C3%81lgebra%20Lineal.ipynb)
     1. Definición y operaciones.
     2. Sistemas de ecuaciones.
     3. Determinantes
